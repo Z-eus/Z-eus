@@ -5,5 +5,7 @@
 <h3 align="left">Connect with me: https://discord.gg/4wbPV3qHC2</h3>
 <p align="left">
 </p>
+
 <br><br><br><br><br><br><br><br><br>
+
 <div align="left"><img src="https://komarev.com/ghpvc/?username=Z-eus&label=Profile%20views&color=blue&style=flat" alt="Z-eus" /></div>
